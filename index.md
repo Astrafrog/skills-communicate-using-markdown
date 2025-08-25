@@ -11,6 +11,8 @@
 
 <img src="https://media.craiyon.com/2025-07-22/WvAjhBhXTb2dFwydrEDGfA.webp" alt="Image of a frog" width="350"/>
 
+<!-- Code blocks for documentation -->
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -19,3 +21,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 let myVar = "Hello, world!";
 ```
+
+- [x] This item is complete
+- [ ] This item is not complete
